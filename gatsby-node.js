@@ -1,2 +1,0 @@
-export { onCreateNode } from './create-node';
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6WyJvbkNyZWF0ZU5vZGUiXSwic291cmNlcyI6WyJzcmMvZ2F0c2J5LW5vZGUudHMiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgb25DcmVhdGVOb2RlIH0gZnJvbSAnLi9jcmVhdGUtbm9kZSdcbiJdLCJtYXBwaW5ncyI6IkFBQUEsU0FBU0EsWUFBWSxRQUFRLGVBQWUifQ==

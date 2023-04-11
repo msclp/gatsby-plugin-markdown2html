@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-markdown2html",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Gatsby plugin for converting markdown to HTML",
   "repository": {
     "type": "git",

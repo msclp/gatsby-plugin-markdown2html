@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "es2016"
+  },
+  "include": ["./src/**/*"]
+}

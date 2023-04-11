@@ -1,4 +1,4 @@
 {
   "plugins": ["@babel/plugin-transform-typescript"],
-  "ignore": ["**/*.test.js"]
+  "ignore": ["**/*.test.ts"]
 }

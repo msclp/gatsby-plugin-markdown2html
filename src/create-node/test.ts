@@ -29,9 +29,9 @@ Or an image of bears
 ![bears](http://placebear.com/200/200)
 The end ...
 `
-const htmlContent = `<h1 id=\"samplemarkdown\">Sample Markdown</h1>
+const htmlContent = `<h1 id="samplemarkdown">Sample Markdown</h1>
 <p>This is some basic, sample markdown.</p>
-<h2 id=\"secondheading\">Second Heading</h2>
+<h2 id="secondheading">Second Heading</h2>
 <ul>
 <li>Unordered lists, and:</li>
 </ul>
@@ -45,17 +45,17 @@ const htmlContent = `<h1 id=\"samplemarkdown\">Sample Markdown</h1>
 </ul>
 <blockquote>
   <p>Blockquote
-  And <strong>bold</strong>, <em>italics</em>, and even <em>italics and later <strong>bold</strong></em>. Even ~~strikethrough~~. <a href=\"https://markdowntohtml.com\">A link</a> to somewhere.
+  And <strong>bold</strong>, <em>italics</em>, and even <em>italics and later <strong>bold</strong></em>. Even ~~strikethrough~~. <a href="https://markdowntohtml.com">A link</a> to somewhere.
   And code highlighting:</p>
 </blockquote>
-<pre><code class=\"js language-js\">var foo = 'bar';
+<pre><code class="js language-js">var foo = 'bar';
 function baz(s) {
    return foo + ':' + s;
 }
 </code></pre>
 <p>Or inline code like <code>var foo = 'bar';</code>.
 Or an image of bears
-<img src=\"http://placebear.com/200/200\" alt=\"bears\" />
+<img src="http://placebear.com/200/200" alt="bears" />
 The end …</p>`
 
 const node: Args['node'] = {

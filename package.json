@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-markdown2html",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gatsby plugin for converting markdown to HTML",
   "repository": {
     "type": "git",
@@ -15,6 +15,7 @@
     "build:js": "babel src --out-dir . --extensions \".ts\" --source-maps inline",
     "build:types": "tsc --emitDeclarationOnly",
     "lint": "eslint .",
+    "prepare": "npm run build",
     "test": "jest",
     "type-check": "tsc --noEmit",
     "type-check:watch": "npm run type-check -- --watch"

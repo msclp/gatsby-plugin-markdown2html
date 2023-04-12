@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-markdown2html",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Gatsby plugin for converting markdown to HTML",
   "repository": {
     "type": "git",
@@ -27,7 +27,6 @@
     "html"
   ],
   "dependencies": {
-    "gatsby": "^5.8.1",
     "showdown": "^2.1.0"
   },
   "devDependencies": {
@@ -45,5 +44,8 @@
     "jest": "^29.5.0",
     "ts-jest": "^29.1.0",
     "typescript": "^5.0.4"
+  },
+  "peerDependencies": {
+    "gatsby": "^5.8.1"
   }
 }
